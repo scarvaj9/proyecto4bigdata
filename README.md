@@ -10,8 +10,8 @@ hizo stem para generalizar las palabras.
 
 
 Yo Sérgio Andres Muñoz, en el proyecto 4, realice la implementación 
-de analítica de los dataframes, mediante Lda, que nos permite graficar
-y observar las palabras más recurrentes y así determinar una idea general 
+de analítica de los dataframes, mediante un modelo de sklearn en machine learning llamado LDA con id2word, que nos permite graficar
+y observar las palabras más recurrentes en temas o clusters y así determinar una idea general 
 del artículo
 
 
